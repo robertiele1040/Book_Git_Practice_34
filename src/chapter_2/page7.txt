@@ -1,3 +1,6 @@
 Created new page on GitHub. 
 
 Good day.
+
+editor:
+made some small changes here too.

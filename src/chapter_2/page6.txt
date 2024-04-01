@@ -3,3 +3,6 @@ Story is going great
 Very excited for the future
 
 Positive thoughts only!
+
+editor:
+made some changes to the book
